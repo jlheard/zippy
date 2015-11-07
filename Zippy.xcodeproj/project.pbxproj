@@ -14,6 +14,7 @@
 		E8EF66761BEE6EA900877ADD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E8EF66741BEE6EA900877ADD /* LaunchScreen.storyboard */; };
 		E8EF66811BEE6EA900877ADD /* ZippyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EF66801BEE6EA900877ADD /* ZippyTests.swift */; };
 		E8EF668C1BEE6EA900877ADD /* ZippyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EF668B1BEE6EA900877ADD /* ZippyUITests.swift */; };
+		E8EF669C1BEE71FD00877ADD /* orange_button_base.png in Resources */ = {isa = PBXBuildFile; fileRef = E8EF669B1BEE71FD00877ADD /* orange_button_base.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E8EF66871BEE6EA900877ADD /* ZippyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZippyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8EF668B1BEE6EA900877ADD /* ZippyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZippyUITests.swift; sourceTree = "<group>"; };
 		E8EF668D1BEE6EA900877ADD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E8EF669B1BEE71FD00877ADD /* orange_button_base.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = orange_button_base.png; path = ../../../../../Downloads/orange_button_base.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		E8EF666A1BEE6EA900877ADD /* Zippy */ = {
 			isa = PBXGroup;
 			children = (
+				E8EF669B1BEE71FD00877ADD /* orange_button_base.png */,
 				E8EF666B1BEE6EA900877ADD /* AppDelegate.swift */,
 				E8EF666D1BEE6EA900877ADD /* ViewController.swift */,
 				E8EF666F1BEE6EA900877ADD /* Main.storyboard */,
@@ -231,6 +234,7 @@
 			files = (
 				E8EF66761BEE6EA900877ADD /* LaunchScreen.storyboard in Resources */,
 				E8EF66731BEE6EA900877ADD /* Assets.xcassets in Resources */,
+				E8EF669C1BEE71FD00877ADD /* orange_button_base.png in Resources */,
 				E8EF66711BEE6EA900877ADD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
