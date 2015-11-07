@@ -15,4 +15,4 @@ My first iOS App using Swift 2. It connects to http://www.zipcodeapi.com and par
 
 Versions
 ---
-- 0.1 -  It return the state, city for the zip code entered
+- 0.1 -  It returns the state, city for the zip code entered
